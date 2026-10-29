@@ -1,1 +1,2 @@
 I’m Lakshya Antil, a PGDM student at FIIB, Delhi, interested in Marketing, Operations, and AI applications in business. I have foundational skills in Excel, PowerPoint, research, and AI tools such as ChatGPT, Claude, and Gemini. I’m currently developing Python and SQL skills through a team analytics capstone, alongside projects in business strategy, customer experience, and operational improvement.
+Linkedin Link- https://www.linkedin.com/in/lakshya-antil-a62524190/
